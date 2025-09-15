@@ -37,7 +37,7 @@ A comprehensive web application for connecting students with rental properties a
 - **Backend**: PHP 7.4+
 - **Database**: MySQL
 - **Server**: XAMPP (Apache, MySQL, PHP)
-- **Additional**: Font Awesome icons, Google Maps API
+- **Additional**: Font Awesome icons
 
 ## 📁 Project Structure
 
